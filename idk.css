@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://preview.redd.it/2mft3e5fkks11.jpg?auto=webp&s=146a45fc8b5ed9f0eec4dfa9b51da5ede41b8012);
+    background-repeat: no-repeat;
+}
+
+.center{
+    position: relative;
+    /*border: 2px solid red;*/
+    top: 300px;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
